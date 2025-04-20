@@ -395,10 +395,10 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/jxdv">
-            <img src="https://avatars.githubusercontent.com/u/138708600?v=4" width="80;" alt="jxdv"/>
+        <a href="https://github.com/virgo-o">
+            <img src="https://avatars.githubusercontent.com/u/138708600?v=4" width="80;" alt="virgo-o"/>
             <br />
-            <sub><b>Jxdv</b></sub>
+            <sub><b>Juraj Virgovič</b></sub>
         </a>
     </td>
     <td align="center">
